@@ -1,0 +1,13 @@
+id,name,type,latA,lonA,latB,lonB,areaMeasured_m2,areaRealistic_m2,bikeCapacity,bikeCapacitySource,roofed,rackAvailable
+0,DS-Anlage Hamburger Tunnel,double stack bike rack,51.95610,7.63473,51.95583,7.63671,,,1000,survey,1,yes
+1,Vor Burger King,open area,51.95613,7.63361,51.95601,7.63376,106,100,67,estimate based on area: 1.5 m^2 per bike,0,yes
+2,Vor Postbank,open area,51.95600,7.63397,51.95582,7.63436,552,500,333,estimate based on area: 1.5 m^2 per bike,0,rare
+3,Vor Sparda-Bank,open area,51.95609,7.63452,51.95578,7.63454,400,400,267,estimate based on area: 1.5 m^2 per bike,0,yes
+4,Vor Reisezentrum,open area,51.95624,7.63441,51.95600,7.63463,301,280,187,estimate based on area: 1.5 m^2 per bike,0,rare
+5,Windthorststraße Vorne,open area,51.95680,7.63359,51.95668,7.63370,140,140,93,estimate based on area: 1.5 m^2 per bike,0,no
+6,Windthorststraße Hinten,open area,51.95702,7.63319,51.95686,7.63360,181,150,100,estimate based on area: 1.5 m^2 per bike,0,rare
+7,Bremer Platz,open area,51.95822,7.63739,51.95745,7.63781,318,300,200,estimate based on area: 1.5 m^2 per bike,0,no
+8,Vor DM,open area,51.95795,7.63480,51.95770,7.63482,162,140,93,estimate based on area: 1.5 m^2 per bike,0,rare
+9,DS-Anlage vor Radstation,double stack bike rack,51.95628,7.63382,51.95607,7.63402,,,424,survey,1,yes
+10,Radstation,garage,51.95661,7.63395,51.95619,7.63414,,,3300,official information,1,yes
+11,Radlager Bremer Platz,garage,51.95824,7.63744,51.95774,7.63778,,,984,official information,1,yes
