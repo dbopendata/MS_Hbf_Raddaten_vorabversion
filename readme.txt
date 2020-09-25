@@ -1,3 +1,5 @@
+VORABVERSION für den #MSHACK2020 - Münsterhack 2020
+
 The data you are looking at contains information on how many available parking spaces for bikes available in the vicinity of the Münster (Westf.) Hauptbahnhof / main station and on the actual counts counted on local surveys.
 In its current state, it only contains actual counts, however we want to enrich it using publicly sourced data.
 Over the course of various weeks we regulary made photographs of the relevant parking spaces and prepared them so they can be used to gain more info on the usage of bikes near the main station.
@@ -7,7 +9,7 @@ The final goal is to produce a resilient dataset which can be used to answer var
 - How does this change among different week days or time of days?
 - How many bikes are never being moved?
 
-The original dataset has been produced as part of the Zukunftsbahnhöfe summer test 2020, see https://gobeta.de/ .
+The original dataset has been produced as part of the Zukunftsbahnhöfe summer test 2020, see https://gobeta.de/ms .
 
 Please see the accompanying license file or https://creativecommons.org/licenses/by/4.0/ to learn about what you are allowed to do with this data.
 
